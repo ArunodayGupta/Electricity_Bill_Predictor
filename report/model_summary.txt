@@ -1,0 +1,7 @@
+I am using Random Forest Model to predict the Electricity Bill based on the given data.
+First, we read the csv file.
+second, split the data in training and testing data.
+third, dividing the columns based on numeric and categorical columns.
+Fourth, Using min max scaler to normalize the data and scaling the numeric columns based on it.
+Fifth, using the onehotencoder to encode the categorical columns.
+sixth, using the random forest Model to predict the electricity bill.
