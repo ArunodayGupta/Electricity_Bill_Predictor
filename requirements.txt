@@ -1,0 +1,5 @@
+The different python liabraries used are:
+pandas
+matplotlib
+scikit learn
+seaborn
